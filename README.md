@@ -1,24 +1,24 @@
-# web_giới thiệu cá nhân
+ web_giới thiệu cá nhân
 <!DOCTYPE html>  
 <html>  
 <head>  
-    <title> Đâò Thanh Hoàng</title>g</title>  
+    <title>Châu Hữu Phúc Thịnh</title>  
 <head>
 <body>  
     <div>  
-        <h>Đào Thanh Hoàng</h1>  
+        <h>1Châu Hữu Phúc Thịnh</h1>  
     </div>  
     <main>  
-        <h2>Các món ăn vặt</h2>  
+        <h2>Thông tin cá nhân</h2>  
         <ul>  
-            <li><strong>Tên:</strong> <span>Đào Thanh Hoàng</span></li>  
+            <li><strong>Tên:</strong> <span>Châu Hữu Phúc Thịnh</span></li>  
             <li><strong>Lớp:</strong> <span>12L</span></li>  
             <li><strong>Ngày sinh:</strong> <span>26/07/2007</span></li>  
-            <li><strong>Chiều cao:</strong> <span>170cm</span></li>  
-            <li><strong>Cân nặng:</strong> <span>65kg</span></li>
+            <li><strong>Chiều cao:</strong> <span>175cm</span></li>  
+            <li><strong>Cân nặng:</strong> <span>75kg</span></li>
 	  
 	
-<p><a href="https://www.facebook.com/daothanhhoangpro?mibextid=ZbWKwL"> Facebook cua Hoàng</a></p> 
+<p><a href="https://www.facebook.com/chauhuu.phucthinh?mibextid=ZbWKwL"> Facebookcủa Thịnh</a></p> 
     </main>  
 </body>  
 </html>
