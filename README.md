@@ -16,7 +16,8 @@
             <li><strong>Ngày sinh:</strong> <span>26/07/2007</span></li>  
             <li><strong>Chiều cao:</strong> <span>175cm</span></li>  
             <li><strong>Cân nặng:</strong> <span>75kg</span></li>
-	  
+	  <img src="thinh.jpg" alt="Hình mình nè!">
+
 	
 <p><a href="https://www.facebook.com/chauhuu.phucthinh?mibextid=ZbWKwL"> Facebookcủa Thịnh</a></p> 
     </main>  
